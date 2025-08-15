@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Veer-YourGitHub?tab=repositories"><img src="https://img.shields.io/badge/Browse%20my%20work-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:veer@example.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/veer-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/itsVir?tab=repositories"><img src="https://img.shields.io/badge/Browse%20my%20work-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:valamahaveer28@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahaveer-vala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/veertelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Veer-YourGitHub.Veer-YourGitHub&right_color=brightgreen" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsVir.Veer-YourGitHub&right_color=brightgreen" alt="visitors"/>
 </p>
 
 ---
