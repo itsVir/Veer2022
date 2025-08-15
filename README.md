@@ -45,12 +45,12 @@
 ## 📈 Stats & Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Veer-YourGitHub&show_icons=true&theme=radical"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Veer-YourGitHub&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsvir&show_icons=true&theme=radical"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsvir&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veer-YourGitHub&bg_color=0d1117&color=e6edf3&line=a371f7&point=f0f6fc&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsvir&bg_color=0d1117&color=e6edf3&line=a371f7&point=f0f6fc&area=true&hide_border=true"/>
 </p>
 
 ---
