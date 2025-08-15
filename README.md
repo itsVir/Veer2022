@@ -1,52 +1,71 @@
-<h1 align="center">Hi 👋, I'm Veer</h1>
-<h3 align="center">🚀 React Developer | 💡 Problem Solver | 📍 Ahmedabad, India</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Veer%20—%20React%20Developer&fontAlign=50&fontAlignY=40&desc=Building%20snappy%20UIs%20from%20Ahmedabad%20🇮🇳&descAlign=50&descAlignY=65&color=0:1F6FEB,100:A371F7" alt="Veer Header"/>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&center=true&vCenter=true&width=920&height=45&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Modern+UI%2FUX+%E2%80%A2+Animations+with+Framer+Motion;Clean%2C+performant%2C+accessible+web+apps+%E2%9C%A8" alt="typing"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Veer-YourGitHub?tab=repositories"><img src="https://img.shields.io/badge/Browse%20my%20work-1f6feb?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:veer@example.com"><img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/veer-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/veertelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Veer-YourGitHub.Veer-YourGitHub&right_color=brightgreen" alt="visitors"/>
+</p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Currently exploring **Next.js** & **TypeScript**  
-- 💬 Ask me about **React, JavaScript, Python, and Web Development**  
-- ⚡ Fun fact: I debug with coffee ☕ and deploy with a smile 😄  
-- 🎯 Goal for 2025: Build open-source projects that help developers
+## 👋 About Me
+
+- 🧑‍💻 React Developer passionate about **modern web apps** & **smooth user experiences**.
+- 🎯 Skilled in **Next.js**, **TypeScript**, **UI/UX**, and **micro-interactions**.
+- 🌍 Ahmedabad, India • Open to remote work.
+- 🚀 Always learning, always shipping.
 
 ---
 
-### 🛠️ Tech Stack  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-</div>
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,bootstrap,python,nodejs,css,html"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veer&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veer&theme=radical" height="180" alt="GitHub streak" />
-</div>
+## 🌟 Project Spotlight
+
+<p align="center">
+  <a href="https://github.com/Veer-YourGitHub/project1"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Veer-YourGitHub&repo=project1&theme=radical&border_radius=12"/></a>
+  <a href="https://github.com/Veer-YourGitHub/project2"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Veer-YourGitHub&repo=project2&theme=radical&border_radius=12"/></a>
+</p>
 
 ---
 
-### 🌐 Connect With Me  
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://t.me/your-telegram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
+## 📈 Stats & Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Veer-YourGitHub&show_icons=true&theme=radical"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Veer-YourGitHub&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veer-YourGitHub&bg_color=0d1117&color=e6edf3&line=a371f7&point=f0f6fc&area=true&hide_border=true"/>
+</p>
 
 ---
 
-⭐ **"Code is like humor. When you have to explain it, it’s bad."**  
+## 📨 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/veer-link/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:veer@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/veertelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://instagram.com/veerinsta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1F6FEB,100:A371F7"/>
+</p>
