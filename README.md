@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/itsVir/Foodify"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=itsvir&repo=project1&theme=radical&border_radius=12"/></a>
-  <a href="https://github.com/Veer-YourGitHub/project2"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=itsvir&repo=project2&theme=radical&border_radius=12"/></a>
+  <a href="https://github.com/itsVir/Akansh-Digital"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=itsvir&repo=project2&theme=radical&border_radius=12"/></a>
 </p>
 
 ---
